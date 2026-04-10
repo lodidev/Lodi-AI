@@ -1,6 +1,8 @@
 # LodiBrain v2.0 - IA de Elite
 
-![LodiBrain Logo](logo.png)
+<p align="center">
+  <img src="logo.png" alt="LodiBrain Logo" width="300" height="auto">
+</p>
 
 LodiBrain é um assistente virtual multimodal para Discord, desenvolvido em Python. Ele utiliza a inteligência da API do Google Gemini 1.5 Flash para fornecer respostas inteligentes e contextuais, além de utilitários essenciais para o servidor.
 
